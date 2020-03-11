@@ -3,13 +3,6 @@
 # ProGrad Lab | ProGrad Premier League
 
 
-
-
-![sql](https://user-images.githubusercontent.com/58466121/76389844-3c85d400-6392-11ea-875f-8cd9676219b2.JPG)
-
-
-![1 2](https://user-images.githubusercontent.com/61002120/76416050-5807d380-63c0-11ea-8d52-9e8750e800f9.png)
-
 ## Progression 1:
 
 Create `Main.java` with main method Create skill.java domain class with below attributes, 
@@ -46,6 +39,9 @@ Include getter and setter method for all the attributes Include constructor with
 ## Progression 5:
 
 Create `PlayerDAO.java` class with below methods, public List<Player> getAllPlayers() - Method used to fetch all the players and their corresponding skill from the database.
+
+
+![1 2](https://user-images.githubusercontent.com/61002120/76416050-5807d380-63c0-11ea-8d52-9e8750e800f9.png)
 
 
 ### Note:
