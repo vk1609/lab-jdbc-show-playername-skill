@@ -56,6 +56,7 @@ public static Properties loadPropertiesFile() throws Exception {
 	return prop;
 }
 ```    
+```
 > **Sample Output** 
 > ***List of all player and their skill***
 > Id 	Name 		Country 	Skill 
@@ -64,3 +65,4 @@ public static Properties loadPropertiesFile() throws Exception {
 > 82 	Abu Nechim 	India 		Bowling 
 > 85 	Adam Milne 	New Zealand 	Bowling 
 > 16 	Akshdeep Nath 	India 		All Rounder
+```
