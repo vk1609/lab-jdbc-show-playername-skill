@@ -56,13 +56,13 @@ public static Properties loadPropertiesFile() throws Exception {
 	return prop;
 }
 ```    
+**Sample Output **
 ```
-> **Sample Output** 
-> ***List of all player and their skill***
-> Id 	Name 		Country 	Skill 
-> 26 	Aaron Finch 	Australia 	Batting 
-> 80 	AB de Villiers 	South Africa 	Batting 
-> 82 	Abu Nechim 	India 		Bowling 
-> 85 	Adam Milne 	New Zealand 	Bowling 
-> 16 	Akshdeep Nath 	India 		All Rounder
+ List of all player and their skill
+ Id 	Name 		Country 	Skill 
+ 26 	Aaron Finch 	Australia 	Batting 
+ 80 	AB de Villiers 	South Africa 	Batting 
+ 82 	Abu Nechim 	India 		Bowling 
+ 85 	Adam Milne 	New Zealand 	Bowling 
+ 16 	Akshdeep Nath 	India 		All Rounder
 ```
