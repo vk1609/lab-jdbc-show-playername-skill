@@ -56,7 +56,7 @@ public static Properties loadPropertiesFile() throws Exception {
 	return prop;
 }
 ```    
-**Sample Output **
+**Sample Output**
 ```
  List of all player and their skill
  Id 	Name 		Country 	Skill 
