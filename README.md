@@ -5,7 +5,8 @@
 
 ## Progression 1:
 
-Create `Main.java` with main method Create skill.java domain class with below attributes, 
+Create a class called as `Main` with main method 
+Create a class called as `skill` with below attributes, 
 ```
 skillld - Long 
 skillName - String 
@@ -19,13 +20,13 @@ Include getter and setter method for all the attributes Include constructor with
 
 ## Progression 3:
 
-Create `SkilIDA0` class withe below method, 
+Create a dao-class called as `SkillDAO` withe below method, 
 `public Skill getSkillBylD(Long id)` - Method used to fetch the skill information from the database based on the skill id. 
 
 
 ## Progression 4:
 
-Create `Player.java` domain class with below attributes, 
+Create a class called as `Player` with below attributes, 
 ```
 playerld - Long 
 name - String 
@@ -38,7 +39,8 @@ Include getter and setter method for all the attributes Include constructor with
 
 ## Progression 5:
 
-Create `PlayerDAO.java` class with below methods, public List<Player> getAllPlayers() - Method used to fetch all the players and their corresponding skill from the database.
+Create a class called as `PlayerDAO` with below methods, 
+`public List<Player> getAllPlayers()` - Method used to fetch all the players and their corresponding skill from the database.
 
 
 ![1 2](https://user-images.githubusercontent.com/61002120/76416050-5807d380-63c0-11ea-8d52-9e8750e800f9.png)
