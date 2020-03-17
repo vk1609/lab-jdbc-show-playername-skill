@@ -63,7 +63,7 @@ If you haven't downloaded OJDBC driver (ojdbc6.jar), then download using this li
 2. Include appropriate getters and setters.
 3. Include getter and setter method for all the attributes Include constructor with below arguments, public Skill(skillId, skillName).
 
-## Progression 2:
+## Progression 3:
 
 1. Create a dao-class called as `SkillDAO` with the below method,
 	- public Skill getSkillBylD(Long id) - Method used to fetch the skill information from the database based on the skill id.
